@@ -26,5 +26,5 @@ function btn_yes_clicked() {
 }
 
 function open_web() {
-  window.open("https://www.facebook.com/profile.php?id=100030532059237")  
+  window.open("https://www.messenger.com/t/100023643200209")  
 }
